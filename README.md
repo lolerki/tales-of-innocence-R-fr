@@ -4,7 +4,7 @@ Patch amateur pour jouer à *Tales of Innocence R* en français sur PS Vita.
 
 ## Télécharger et installer
 
-**[Télécharger le patch Windows v1.0-rc3](../../releases/tag/v1.0-rc3)**
+**[Télécharger le patch Windows v1.0-rc4](../../releases/tag/v1.0-rc4)**
 
 Décompressez l’archive Windows et ouvrez `LISEZ-MOI.txt`. L’outil de patch est inclus. [Toutes les versions](../../releases)
 
