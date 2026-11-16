@@ -4,9 +4,9 @@ Patch amateur pour jouer à *Tales of Innocence R* en français sur PS Vita.
 
 ## Télécharger et installer
 
-Téléchargez l’archive française dans [Releases](../../releases), décompressez-la et ouvrez `LISEZ-MOI.md`. Elle contient deux correctifs xdelta, une notice et les empreintes de vérification.
+Téléchargez l’archive Windows dans [Releases](../../releases), décompressez-la et ouvrez `LISEZ-MOI.txt`. L’outil de patch est inclus.
 
-Vous aurez besoin de votre copie japonaise du jeu (**PCSG00009**). Cette version du patch français s’applique aux deux fichiers produits par le patch anglais **v0.1.14, variante Vita Hardware**. La notice explique la préparation des fichiers et l’installation sur la console. [Patch anglais v0.1.14](https://github.com/lifebottle/Tales-of-Innocence-R/releases/tag/v0.1.14)
+Il vous faut votre copie japonaise du jeu (**PCSG00009**) et une PS Vita équipée de rePatch. Placez les deux fichiers japonais déchiffrés dans le dossier indiqué par la notice, puis lancez le patch. La notice explique où copier le dossier français sur la console.
 
 ## À propos du projet
 
