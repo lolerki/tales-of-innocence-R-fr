@@ -1,0 +1,24 @@
+name: Traduction ou texte
+description: Signaler une réplique étrange, une faute ou un terme incohérent.
+body:
+  - type: input
+    id: version
+    attributes:
+      label: Version du patch
+      description: Indiquez la version affichée sur la page de téléchargement.
+    validations:
+      required: true
+  - type: input
+    id: lieu
+    attributes:
+      label: Lieu, scène ou menu
+      description: Indiquez où vous avez vu le texte, sans révélation dans le titre de l’issue.
+    validations:
+      required: true
+  - type: textarea
+    id: texte
+    attributes:
+      label: Texte affiché et problème rencontré
+      description: Recopiez la phrase ou joignez une capture, puis dites ce qui vous paraît étrange. Vous pouvez proposer une reformulation. Placez les révélations dans un bloc repliable.
+    validations:
+      required: true
