@@ -10,17 +10,17 @@ Sur la page des versions, téléchargez l’archive Windows la plus récente. D�
 
 Il vous faut votre copie japonaise du jeu (**PCSG00009**), un PC sous Windows 64 bits et une PS Vita équipée de rePatch. La notice indique quels fichiers préparer et où installer le patch.
 
+## Aperçu
+
+| Écran titre | Menu en jeu |
+| --- | --- |
+| ![Écran titre en français](images/ecran-titre.jpg) | ![Menu en jeu en français avec Ruca](images/menu-en-jeu.png) |
+
+Les autres personnages ont été masqués pour éviter les spoilers.
+
 ## Contenu du patch
 
 Le jeu est entièrement traduit. Je poursuis la relecture, en priorité sur l’histoire principale. Quelques repères d’interface, comme `ALL` et `ON/OFF`, gardent leur lettrage d’origine.
-
-## Aperçu
-
-![Écran titre en français](images/ecran-titre.jpg)
-
-![Menu en jeu en français avec Ruca](images/menu-en-jeu.png)
-
-Les autres personnages ont été masqués pour éviter les spoilers.
 
 ## À propos du projet
 
