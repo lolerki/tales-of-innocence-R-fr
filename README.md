@@ -2,6 +2,16 @@
 
 Patch de traduction française pour *Tales of Innocence R*.
 
+## Version de test
+
+J’ai consacré de nombreuses heures à reprendre les dialogues des chapitres 1 à 9, scène par scène. J’ai retravaillé les phrases qui sonnaient mal en français, ajusté le rythme des échanges et rétabli des nuances qui s’étaient perdues. J’ai tenu à ce que chaque personnage garde sa façon de parler, et j’ai vérifié le rendu en jeu autant que possible.
+
+L’IA m’aide à interpréter le japonais et à préparer les premiers jets. Je confronte ces propositions au contexte de la scène et à la traduction anglaise de Life Bottle Productions avant de choisir la formulation française.
+
+L’histoire est jouable en français jusqu’à la fin. À partir du chapitre 10, les dialogues reposent encore en grande partie sur des premiers jets assistés par IA. Le travail sur les scénettes se poursuit aussi.
+
+Quelques repères d’interface, comme `ALL` et `ON/OFF`, gardent leur lettrage d’origine.
+
 ## Télécharger et installer
 
 **[Récupérer la dernière version](https://github.com/lolerki/tales-of-innocence-R-fr/releases)**
@@ -17,10 +27,6 @@ Il vous faut votre copie japonaise du jeu (**PCSG00009**), un PC sous Windows 64
 | ![Écran titre en français](images/ecran-titre.jpg) | ![Menu en jeu en français avec Ruca](images/menu-en-jeu.png) |
 
 Les autres personnages ont été masqués pour éviter les spoilers.
-
-## Contenu du patch
-
-Le jeu est entièrement traduit. Je poursuis la relecture, en priorité sur l’histoire principale. Quelques repères d’interface, comme `ALL` et `ON/OFF`, gardent leur lettrage d’origine.
 
 ## À propos du projet
 
