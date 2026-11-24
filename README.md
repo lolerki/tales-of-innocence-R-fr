@@ -12,13 +12,11 @@ L’histoire est jouable en français jusqu’à la fin. À partir du chapitre 1
 
 Quelques repères d’interface, comme `ALL` et `ON/OFF`, gardent leur lettrage d’origine.
 
-## Télécharger et installer
+## Télécharger
 
 **[Récupérer la dernière version](https://github.com/lolerki/tales-of-innocence-R-fr/releases)**
 
-Sur la page des versions, téléchargez l’archive Windows la plus récente. Décompressez-la et ouvrez `LISEZ-MOI.txt`. L’outil de patch est inclus.
-
-Il vous faut votre copie japonaise du jeu (**PCSG00009**), un PC sous Windows 64 bits et une PS Vita équipée de rePatch. La notice indique quels fichiers préparer et où installer le patch.
+Le choix de l’archive, les prérequis et les consignes d’installation sont indiqués sur la page de chaque version et dans le `LISEZ-MOI.txt` inclus dans le ZIP.
 
 ## Aperçu
 
