@@ -2,15 +2,15 @@
 
 Patch de traduction française pour *Tales of Innocence R*.
 
-## Version de test
+## Version 1.0
 
-J’ai consacré de nombreuses heures à reprendre les dialogues des chapitres 1 à 9, scène par scène. J’ai retravaillé les phrases qui sonnaient mal en français, ajusté le rythme des échanges et rétabli des nuances qui s’étaient perdues. J’ai tenu à ce que chaque personnage garde sa façon de parler, et j’ai vérifié le rendu en jeu autant que possible.
-
-L’IA m’aide à interpréter le japonais et à préparer les premiers jets. Je confronte ces propositions au contexte de la scène et à la traduction anglaise de Life Bottle Productions avant de choisir la formulation française.
-
-L’histoire est jouable en français jusqu’à la fin. À partir du chapitre 10, les dialogues reposent encore en grande partie sur des premiers jets assistés par IA. Le travail sur les scénettes se poursuit aussi.
+L’histoire est jouable en français jusqu’à la fin. J’ai consacré de nombreuses heures à relire et à corriger les dialogues et les scénettes, à retravailler les formulations et le rythme des échanges, en veillant à préserver les nuances du texte et la façon de parler de chaque personnage.
 
 Quelques repères d’interface, comme `ALL` et `ON/OFF`, gardent leur lettrage d’origine.
+
+## Tests et retours
+
+Le patch a été testé sur PS Vita, mais je n’ai pas encore parcouru l’intégralité du jeu avec la traduction française. Vous pouvez partager vos retours dans les [issues du projet](https://github.com/lolerki/tales-of-innocence-R-fr/issues/new/choose), en précisant la scène concernée et, si possible, avec une capture d’écran.
 
 ## Télécharger
 
@@ -30,7 +30,7 @@ Les autres personnages ont été masqués pour éviter les spoilers.
 
 J’ai commencé ce projet en 2025, seul et sans IA. J’ai extrait les fichiers du jeu et commencé à traduire les premières scènes. Au fil du travail, je me suis rendu compte qu’à mon rythme, traduire le jeu entier serait hors de portée.
 
-En 2026, j’ai commencé à utiliser l’IA pour préparer des traductions, explorer plusieurs formulations et m’aider à les relire. Le japonais a servi de référence, et la traduction anglaise de Life Bottle Productions et ses notes m’ont aidé à éclaircir certains passages. Pour les dialogues, j’ai cherché à comprendre qui parle, à qui et avec quelle intention. Une pique taquine d’Illia et une hésitation de Ruca n’appellent pas le même français. J’ai revu les formulations en contexte et testé le patch sur ma PS Vita.
+En 2026, j’ai commencé à utiliser l’IA pour m’aider à interpréter le japonais, à préparer les premiers jets et à explorer différentes formulations. Le japonais a servi de référence pour le sens, avec l’appui de la traduction anglaise de Life Bottle Productions et de ses notes pour éclaircir le contexte. J’ai repris les propositions scène par scène, en tenant compte des interlocuteurs et de leurs intentions, avant de choisir les formulations françaises. J’ai également testé le patch sur ma PS Vita.
 
 ## Signaler un problème
 
