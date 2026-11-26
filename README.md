@@ -2,15 +2,11 @@
 
 Patch de traduction française pour *Tales of Innocence R*.
 
-## Version 1.0
+## Traduction et tests
 
 L’histoire est jouable en français jusqu’à la fin. J’ai consacré de nombreuses heures à relire et à corriger les dialogues et les scénettes, à retravailler les formulations et le rythme des échanges, en veillant à préserver les nuances du texte et la façon de parler de chaque personnage.
 
-Quelques repères d’interface, comme `ALL` et `ON/OFF`, gardent leur lettrage d’origine.
-
-## Tests et retours
-
-Le patch a été testé sur PS Vita, mais je n’ai pas encore parcouru l’intégralité du jeu avec la traduction française. Vous pouvez partager vos retours dans les [issues du projet](https://github.com/lolerki/tales-of-innocence-R-fr/issues/new/choose), en précisant la scène concernée et, si possible, avec une capture d’écran.
+J’ai testé le patch sur PS Vita, mais je n’ai pas encore effectué un parcours complet sur la console pour vérifier le rendu de toutes les scènes et repérer d’éventuels problèmes d’affichage ou de fonctionnement. Vous pouvez partager vos retours dans les [issues du projet](https://github.com/lolerki/tales-of-innocence-R-fr/issues/new/choose), en précisant la scène concernée et, si possible, avec une capture d’écran.
 
 ## Télécharger
 
